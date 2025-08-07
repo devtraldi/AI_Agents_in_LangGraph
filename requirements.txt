@@ -4,4 +4,3 @@ python-dotenv
 jupyterlab
 notebook
 ipykernel
-google-generativeai
