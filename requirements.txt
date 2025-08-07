@@ -1,0 +1,6 @@
+openai
+httpx
+python-dotenv
+jupyterlab
+notebook
+ipykernel
